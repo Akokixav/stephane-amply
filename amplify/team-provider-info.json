@@ -1,0 +1,14 @@
+{
+    "stephamply": {
+        "awscloudformation": {
+            "AuthRoleName": "stephaneamply-stephamply-20190816222242-authRole",
+            "UnauthRoleArn": "arn:aws:iam::289786021456:role/stephaneamply-stephamply-20190816222242-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::289786021456:role/stephaneamply-stephamply-20190816222242-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "stephaneamply-stephamply-20190816222242-deployment",
+            "UnauthRoleName": "stephaneamply-stephamply-20190816222242-unauthRole",
+            "StackName": "stephaneamply-stephamply-20190816222242",
+            "StackId": "arn:aws:cloudformation:us-east-2:289786021456:stack/stephaneamply-stephamply-20190816222242/09e170d0-c0af-11e9-91e8-0a84bc2bb20a"
+        }
+    }
+}
